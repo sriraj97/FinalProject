@@ -49,3 +49,10 @@ td{
     cursor: pointer;
     position: absolute;
 }
+.errors{
+    top:90%;
+    left :5%;
+    font-size: 15px;
+    color: red;
+    position: absolute;
+}
