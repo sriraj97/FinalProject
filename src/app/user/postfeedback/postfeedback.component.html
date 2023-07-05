@@ -1,0 +1,37 @@
+<div class="uform">
+    <h2 style="text-align: center;color: blue;">Post Your Feedback </h2>
+    <table>
+        <tr>
+            <td class="item-label">Select Date</td>
+            <td>
+                <!-- <input type="text" class="medium-input" > -->
+                <input type="date" onkeydown="return false" [(ngModel)]="usdate" />
+            </td>
+        </tr>
+         <tr>
+            <td class="item-label">FeedBack</td>
+            <td>
+                <textarea class="large-input" [(ngModel)]="ufeedback"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td class="item-label">Root Cause</td>
+            <td>
+                    <select [(ngModel)]="ufactor">
+                        <option *ngFor="let x of factors" [style.color]="'black'">{{x}}</option>
+                    </select>
+            </td>
+        </tr>
+        <tr>                
+            <td colspan=2>
+                <img>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center;" colspan=2>
+                <button mat-raised-button color="primary" type="button" (click)="postFeedback()">Post Feedback</button>
+            </td>            
+        </tr>
+    </table>    
+    <div class="errors" style="color: red;">{{rerror}}</div>
+</div>

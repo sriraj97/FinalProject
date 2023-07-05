@@ -1,0 +1,15 @@
+#D-Logo{    
+    height: 70px;
+}
+#dLogo{
+    /* border: 3px solid rgb(30, 108, 176); */
+    width: 180px;
+    height: 50px;
+    object-fit: fill;
+}
+#projectTitle{
+    position: relative;
+    left: 35%;
+    font-size: 28px;
+    color: rgb(30, 108, 176);
+}

@@ -1,0 +1,300 @@
+{
+  "users": [
+    {
+      "email": "rajesh@gmail.com",
+      "password": "$2a$10$LceTACeXVWRym6g8U0PHguc.0vEstKrrdmXokKKWWzc/FfyH9zz2W",
+      "username": "rajesh",
+      "mobno": "1234567890",
+      "type": "admin",
+      "id": 1
+    },
+    {
+      "email": "rajesh1@gmail.com",
+      "password": "$2a$10$OKZ24CTk/b1nn8A4ul3fd.6BV9mcVkUzeNfR4fzym2/Kh3PbUZrkG",
+      "username": "rajesh1",
+      "mobno": "1234567890",
+      "type": "user",
+      "id": 2
+    },
+    {
+      "email": "tester@gmail.com",
+      "password": "$2a$10$HVy678gVWAwDX5dxqJ96FeaZUoXAisi9BlVJw4gOXbFOiNOO0bbeG",
+      "username": "tester",
+      "type": "user",
+      "mobno": "+1234567290",
+      "id": 3
+    }
+  ],
+  "feedbacks": [
+    {
+      "uid": "2",
+      "username": "rajesh1",
+      "mobno": "1234567890",
+      "feedback": "jvtrdeddrftghhhg54466433",
+      "date": "2023-07-01",
+      "rootcause": "Snacks",
+      "id": 1
+    },
+    {
+      "uid": "2",
+      "username": "rajesh1",
+      "mobno": "1234567890",
+      "feedback": "hvggggkggvyftrd33w63d7dd",
+      "date": "2023-07-02",
+      "rootcause": "Snacks",
+      "id": 2
+    },
+    {
+      "uid": "2",
+      "username": "rajesh1",
+      "mobno": "1234567890",
+      "feedback": "****************************************",
+      "date": "2023-07-03",
+      "rootcause": "Snacks",
+      "id": 3
+    },
+    {
+      "uid": "2",
+      "username": "rajesh1",
+      "mobno": "1234567890",
+      "feedback": "****************************************",
+      "date": "2023-07-04",
+      "rootcause": "Snacks",
+      "id": 4
+    },
+    {
+      "uid": "2",
+      "username": "rajesh1",
+      "mobno": "1234567890",
+      "feedback": "##########################",
+      "date": "2023-07-05",
+      "rootcause": "Lunch",
+      "id": 5
+    },
+    {
+      "uid": "2",
+      "username": "rajesh1",
+      "mobno": "1234567890",
+      "feedback": "sessionStorage.getItem(\"mobno\");",
+      "date": "2023-07-06",
+      "rootcause": "Lunch",
+      "id": 6
+    },
+    {
+      "uid": "1",
+      "username": "rajesh",
+      "mobno": "1234567890",
+      "feedback": "asfasfsfdf",
+      "date": "2023-07-05",
+      "rootcause": "Bevarages",
+      "id": 7
+    },
+    {
+      "uid": "1",
+      "username": "rajesh",
+      "mobno": "1234567890",
+      "feedback": "TEST from admin tab",
+      "date": "2023-07-19",
+      "rootcause": "others",
+      "id": 8
+    },
+    {
+      "uid": "3",
+      "username": "tester",
+      "mobno": "+1234567290",
+      "feedback": "Tester tested in posting feedback",
+      "date": "2023-06-30",
+      "rootcause": "Breakfast",
+      "id": 9
+    },
+    {
+      "uid": "3",
+      "username": "tester",
+      "mobno": "+1234567290",
+      "feedback": "Tester tested in posting feedback 1",
+      "date": "2023-06-02",
+      "rootcause": "Snacks",
+      "id": 10
+    },
+    {
+      "uid": "2",
+      "username": "rajesh1",
+      "mobno": "1234567890",
+      "feedback": "jvtrdeddrftghhhg54466433",
+      "date": "2023-07-01",
+      "rootcause": "Snacks",
+      "id": 1
+    },
+    {
+      "uid": "2",
+      "username": "rajesh1",
+      "mobno": "1234567890",
+      "feedback": "hvggggkggvyftrd33w63d7dd",
+      "date": "2023-07-02",
+      "rootcause": "Snacks",
+      "id": 2
+    },
+    {
+      "uid": "2",
+      "username": "rajesh1",
+      "mobno": "1234567890",
+      "feedback": "****************************************",
+      "date": "2023-07-03",
+      "rootcause": "Snacks",
+      "id": 3
+    },
+    {
+      "uid": "2",
+      "username": "rajesh1",
+      "mobno": "1234567890",
+      "feedback": "****************************************",
+      "date": "2023-07-04",
+      "rootcause": "Snacks",
+      "id": 4
+    },
+    {
+      "uid": "2",
+      "username": "rajesh1",
+      "mobno": "1234567890",
+      "feedback": "##########################",
+      "date": "2023-07-05",
+      "rootcause": "Lunch",
+      "id": 5
+    },
+    {
+      "uid": "2",
+      "username": "rajesh1",
+      "mobno": "1234567890",
+      "feedback": "sessionStorage.getItem(\"mobno\");",
+      "date": "2023-07-06",
+      "rootcause": "Lunch",
+      "id": 6
+    },
+    {
+      "uid": "1",
+      "username": "rajesh",
+      "mobno": "1234567890",
+      "feedback": "asfasfsfdf",
+      "date": "2023-07-05",
+      "rootcause": "Bevarages",
+      "id": 7
+    },
+    {
+      "uid": "1",
+      "username": "rajesh",
+      "mobno": "1234567890",
+      "feedback": "TEST from admin tab",
+      "date": "2023-07-19",
+      "rootcause": "others",
+      "id": 8
+    },
+    {
+      "uid": "3",
+      "username": "tester",
+      "mobno": "+1234567290",
+      "feedback": "Tester tested in posting feedback",
+      "date": "2023-06-30",
+      "rootcause": "Breakfast",
+      "id": 9
+    },
+    {
+      "uid": "3",
+      "username": "tester",
+      "mobno": "+1234567290",
+      "feedback": "Tester tested in posting feedback 1",
+      "date": "2023-06-02",
+      "rootcause": "Snacks",
+      "id": 10
+    },
+    {
+      "uid": "2",
+      "username": "rajesh1",
+      "mobno": "1234567890",
+      "feedback": "jvtrdeddrftghhhg54466433",
+      "date": "2023-07-01",
+      "rootcause": "Snacks",
+      "id": 1
+    },
+    {
+      "uid": "2",
+      "username": "rajesh1",
+      "mobno": "1234567890",
+      "feedback": "hvggggkggvyftrd33w63d7dd",
+      "date": "2023-07-02",
+      "rootcause": "Snacks",
+      "id": 2
+    },
+    {
+      "uid": "2",
+      "username": "rajesh1",
+      "mobno": "1234567890",
+      "feedback": "****************************************",
+      "date": "2023-07-03",
+      "rootcause": "Snacks",
+      "id": 3
+    },
+    {
+      "uid": "2",
+      "username": "rajesh1",
+      "mobno": "1234567890",
+      "feedback": "****************************************",
+      "date": "2023-07-04",
+      "rootcause": "Snacks",
+      "id": 4
+    },
+    {
+      "uid": "2",
+      "username": "rajesh1",
+      "mobno": "1234567890",
+      "feedback": "##########################",
+      "date": "2023-07-05",
+      "rootcause": "Lunch",
+      "id": 5
+    },
+    {
+      "uid": "2",
+      "username": "rajesh1",
+      "mobno": "1234567890",
+      "feedback": "sessionStorage.getItem(\"mobno\");",
+      "date": "2023-07-06",
+      "rootcause": "Lunch",
+      "id": 6
+    },
+    {
+      "uid": "1",
+      "username": "rajesh",
+      "mobno": "1234567890",
+      "feedback": "asfasfsfdf",
+      "date": "2023-07-05",
+      "rootcause": "Bevarages",
+      "id": 7
+    },
+    {
+      "uid": "1",
+      "username": "rajesh",
+      "mobno": "1234567890",
+      "feedback": "TEST from admin tab",
+      "date": "2023-07-19",
+      "rootcause": "others",
+      "id": 8
+    },
+    {
+      "uid": "3",
+      "username": "tester",
+      "mobno": "+1234567290",
+      "feedback": "Tester tested in posting feedback",
+      "date": "2023-06-30",
+      "rootcause": "Breakfast",
+      "id": 9
+    },
+    {
+      "uid": "3",
+      "username": "tester",
+      "mobno": "+1234567290",
+      "feedback": "Tester tested in posting feedback 1",
+      "date": "2023-06-02",
+      "rootcause": "Snacks",
+      "id": 10
+    }
+  ]
+}
